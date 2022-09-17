@@ -1,4 +1,4 @@
-[x] **👋 Hi, I’m @Aaronturas**
+[x] - **👋 Hi, I’m @Aaronturas**
 [x] **👀 I’m interested in everything from Web Development to Databases**
 [x] **🌱 I’m currently learning Android App Development @ CodePath** 
 [x] **Programming Languages: C++, Python, Kotlin**
