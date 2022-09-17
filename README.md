@@ -4,7 +4,7 @@
 - **Programming Languages: C++, Python, Kotlin**
 - **OS: Windows, Ubuntu Linux**
 - **IDE: CodeBlocks, Visual Studio, Replit, Android Studio**
-- **Git, Github**
+- **Tools: Git, Github**
 - **Data Structures & Algorithms**
 - **💞️ I’m looking to collaborate on projects that push me to grow on my skills, as well be part of a team.**
 - **📫 How to reach me email: aaron4gonzalez@gmail.com**
